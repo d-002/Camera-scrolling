@@ -1,5 +1,5 @@
 # Camera-scrolling
 
-Used to help stackoverflow.com/users/15915591
+Used here: stackoverflow.com/q/67699196#67701580
 
-The camera follows the player, to make it stand in a area in the center of the screen.
+The camera follows the player, to make it stay in a area in the center of the screen.
