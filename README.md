@@ -1,4 +1,4 @@
-# Camera-scrolling
+# camera-scrolling
 
 Used here: https://stackoverflow.com/q/67699196#67701580
 
